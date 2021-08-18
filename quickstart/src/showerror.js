@@ -3,6 +3,7 @@
 const getUserFriendlyError = require('./userfriendlyerror');
 
 /**
+ * *******************
  * Show the given error.
  * @param $modal - modal for showing the error.
  * @param error - Error to be shown.
